@@ -1,0 +1,15 @@
+/tags
+/public_bundle.tar.gz
+.*.swp
+.DS_Store
+*.o
+*.ko
+modules.order
+Module.symvers
+*.mod
+*.mod.c
+linux-*
+__pycache__
+.*.cmd
+*.pyc
+map*
